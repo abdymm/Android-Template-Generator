@@ -1,3 +1,1 @@
 #FILE TEMPLATE
-<hr>
-<li>

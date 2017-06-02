@@ -23,9 +23,11 @@ You can see list of current template in your android studio, now for your own te
 
 `.ftl` is freemarker template files, [More](http://freemarker.org/)
 
-3.Look in `root/src/app_package`, there is the templates files that you want to create, in this example i want to create a MVP template base from [google architecture blue print](https://github.com/googlesamples/android-architecture/tree/todo-mvp-clean/) 
+3. Look in `root/src/app_package`, there is the templates files that you want to create, in this example i want to create a MVP template base from [google architecture blue print](https://github.com/googlesamples/android-architecture/tree/todo-mvp-clean/) 
 
 
-4.Restart your android studio and .....
+4. Restart your android studio and .....
+
+![Demo](https://raw.githubusercontent.com/abdymm/Android-Template-Generator/master/MultipleFileTemplates/art/android-template-generator.gif)
 
  

@@ -1,0 +1,18 @@
+<template format="1"
+		revision="1"
+		name="Model Repository Template"
+		description="Creates a new Repository">
+
+	<category value="Other"/>
+
+	<parameter id="modelName"
+		name="Model Name"
+		type="string"
+		constraints="class|unique|nonempty"
+		default="User"
+		help="Name of model data repository in app"/>
+
+	<globals file="globals.xml.ftl" />
+    <execute file="recipe.xml.ftl" />
+
+</template>

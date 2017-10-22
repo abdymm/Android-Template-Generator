@@ -2,6 +2,9 @@ package ${packageName}.${className};
 
 public class ${className}Presenter implements ${className}Contract.Presenter{
 
+    ${className}Contract.View view;
+
+    
 	/**
      * Start in presenter for view
      */
@@ -9,5 +12,12 @@ public class ${className}Presenter implements ${className}Contract.Presenter{
     public void start() {
 
     }
+
+    @Override
+    public void stop() {
+
+    }
+
+
 		
 }
